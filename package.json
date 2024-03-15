@@ -1,5 +1,20 @@
 {
-  "name": "hardhat-project",
+  "name": "stake",
+  "description": "A stoppable staking contract which generated yield will be deducted from balance of another address",
+  "bugs": {
+    "url": "https://github.com/hrishijd/stake/issues",
+    "email": "hrishi.jadhav24@gmail.com"
+  },
+  "author": {
+    "name": "Hrishi Jadhav",
+    "email": "hrishi.jadhav24@gmail.com",
+    "url": "https://www.linkedin.com/in/hrishi-jadhav-140b06173/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrishijd/stake"
+  },
+  "private": true,
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "hardhat": "^2.21.0"
