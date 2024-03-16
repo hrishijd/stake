@@ -1,6 +1,6 @@
 {
   "name": "stake",
-  "description": "A stoppable staking contract which generated yield will be deducted from balance of another address",
+  "description": "A robust staking contract with built-in stoppable functionality. This contract allows users to stake tokens, where rewards are deducted from a designated address's balance. Rewards are calculated dynamically based on block numbers, ensuring fair and transparent distribution.",
   "bugs": {
     "url": "https://github.com/hrishijd/stake/issues",
     "email": "hrishi.jadhav24@gmail.com"
